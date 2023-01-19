@@ -1,6 +1,6 @@
 # Bloc-4-Analyse-predictive-de-donnees-non-structurees-par-l-intelligence-artificielle
 
-This project from zero you don't have any data you have to scrap it and then store it then recover it to clean it and store it in an SQL database for exploitation.
+This project will make us use tenserflow which is a tool for deep learning
 
 ## To begin
 
@@ -15,8 +15,7 @@ What is required to get started with your project...
 
 ## Start-up
 
-
-This block starts with the .py files that will collect the data and ends with the .ipynb file for cleaning and storing the data, follow the annotations in the scrypts
+a single .ipynb file in this block and follow the instructions
 
 ## Versions
 Listez les versions ici 
