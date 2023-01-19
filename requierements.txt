@@ -1,0 +1,8 @@
+pandas
+seaborn
+plotly
+sklearn
+spacy
+en_core_web_lg
+tensorflow_hub
+tensorflow
