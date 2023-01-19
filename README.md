@@ -1,37 +1,30 @@
-Project Title
-One Paragraph of project description goes here
+# Bloc-4-Analyse-predictive-de-donnees-non-structurees-par-l-intelligence-artificielle
 
-Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This project from zero you don't have any data you have to scrap it and then store it then recover it to clean it and store it in an SQL database for exploitation.
 
-Prerequisites
-What things you need to install the software and how to install them
+## To begin
 
-Give examples
-Installing
-A step by step series of examples that tell you how to get a development env running
+You must have a code editor and know a minimum of python
 
-Say what the step will be
+### Prerequisites
 
-Give the example
-And repeat
+What is required to get started with your project...
 
-until finished
-End with an example of getting some data out of the system or using it for a little demo
+- IDE
+- python library which is in the file riquierements.txt
 
-Running the tests
-Explain how to run the automated tests for this system
+## Start-up
 
-Break down into end to end tests
-Explain what these tests test and why
 
-Give an example
-And coding style tests
-Explain what these tests test and why
+This block starts with the .py files that will collect the data and ends with the .ipynb file for cleaning and storing the data, follow the annotations in the scrypts
 
-Give an example
-Deployment
-Add additional notes about how to deploy this on a live system
+## Versions
+Listez les versions ici 
+
+
+## License
+
+Ce projet est sous licence ``exemple: WTFTPL`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
 
 Built With
 Dropwizard - The web framework used
