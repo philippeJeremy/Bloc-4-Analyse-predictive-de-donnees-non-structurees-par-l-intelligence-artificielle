@@ -1,6 +1,6 @@
 # Bloc-4-Analyse-predictive-de-donnees-non-structurees-par-l-intelligence-artificielle
 
-https://share.vidyard.com/watch/xEdeiY2o94hhCvuGM6sTCK?
+video: https://share.vidyard.com/watch/xEdeiY2o94hhCvuGM6sTCK?
 
 https://www.francecompetences.fr/recherche/rncp/35288/
 
