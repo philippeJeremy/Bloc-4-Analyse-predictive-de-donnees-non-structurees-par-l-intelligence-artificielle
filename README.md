@@ -2,7 +2,7 @@
 
 video: https://share.vidyard.com/watch/xEdeiY2o94hhCvuGM6sTCK?
 
-https://www.francecompetences.fr/recherche/rncp/35288/
+certification: https://www.francecompetences.fr/recherche/rncp/35288/
 
 This project will make us use tenserflow which is a tool for deep learning
 
