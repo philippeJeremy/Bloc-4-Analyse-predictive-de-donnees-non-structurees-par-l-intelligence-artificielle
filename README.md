@@ -1,7 +1,5 @@
 # Bloc-4-Analyse-predictive-de-donnees-non-structurees-par-l-intelligence-artificielle
 
-video: https://share.vidyard.com/watch/xEdeiY2o94hhCvuGM6sTCK?
-
 certification: https://www.francecompetences.fr/recherche/rncp/35288/
 
 This project will make us use tenserflow which is a tool for deep learning
